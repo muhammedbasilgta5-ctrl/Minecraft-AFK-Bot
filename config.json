@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
+  "serverHost": "BOOMDA.aternos.me",
+  "serverPort": 52747,
   "botUsername": "MyBot",
   "botChunk": 1
 }
